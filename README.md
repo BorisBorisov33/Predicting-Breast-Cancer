@@ -1,2 +1,2 @@
 # Predicting-Breast-Cancer
-Predicting Breast Cancer uding Logistic Regression
+Predicting Breast Cancer using Logistic Regression
